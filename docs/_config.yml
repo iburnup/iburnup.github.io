@@ -1,1 +1,9 @@
 title: "ESPNOW Sensors"
+description: "Details of multiple repositories for developing battery and solar sensors"
+
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
