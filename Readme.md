@@ -7,4 +7,4 @@ Multiple repositories for developing battery and solar sensors
 Data from multiple sensors is received using esp-now and formatted using the [BTHome format](https://bthome.io/format/)
 This is decoded and re-transmitted as mqtt message over Ethernet.
 
-Added this....
+
