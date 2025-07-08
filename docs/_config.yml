@@ -2,8 +2,4 @@ title: "ESPNOW Sensors"
 description: "Details of multiple repositories for developing battery and solar sensors"
 remote_theme: "jekyll/minima@1e8a445"
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+
