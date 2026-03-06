@@ -1,10 +1,7 @@
 ### Overview 
 
-Multiple repositories for developing battery and solar sensors
+Details of embeded code projects
 
-##### 1. [espnow to mqtt gateway](https://github.com/iburnup/esp-now-gateway)
 
-Data from multiple sensors is received using esp-now and formatted using the [BTHome format](https://bthome.io/format/)
-This is decoded and re-transmitted as mqtt message over Ethernet.
-
-[Alert Speaker](./espnow.md)
+[ESPNow Sensors](./espnow.md)
+[Alert Speaker](./alert-speaker.md)
