@@ -5,7 +5,6 @@ tags:
   - iot
   - wip
 ---
-#### Alert Speaker
 #### Plan
 
 ##### Phase One

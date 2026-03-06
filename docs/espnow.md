@@ -1,5 +1,6 @@
-### Espnow sensors
-
+---
+title: ESPNow Sensors
+---
 Multiple repositories for developing battery and solar sensors
 
 ##### 1. [espnow to mqtt gateway](https://github.com/iburnup/esp-now-gateway)
