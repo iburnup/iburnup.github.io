@@ -5,6 +5,11 @@ tags:
   - iot
   - wip
 ---
+
+A speaker for audio notifications from IOT system. 
+Use an ESP32 to subscribe to MQTT messages and play sound files that have been saved to sd card
+
+
 #### Plan
 
 ##### Phase One
