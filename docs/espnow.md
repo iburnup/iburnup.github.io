@@ -2,7 +2,7 @@
 title: ESPNow Sensors
 ---
 
-Battery powered sensors that use espnow to send BTHome formatted data to to gateway that converts it to am mqtt message.
+Battery powered sensors that use espnow to send BTHome formatted data to a gateway that converts it to a mqtt message.
 
 ##### 1. [espnow to mqtt gateway](https://github.com/iburnup/esp-now-gateway)
 
