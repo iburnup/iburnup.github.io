@@ -1,7 +1,8 @@
 ---
 title: ESPNow Sensors
 ---
-Multiple repositories for developing battery and solar sensors
+
+Battery powered sensors that use espnow to send BTHome formatted data to to gateway that converts it to am mqtt message.
 
 ##### 1. [espnow to mqtt gateway](https://github.com/iburnup/esp-now-gateway)
 
