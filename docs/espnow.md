@@ -14,6 +14,6 @@ This is decoded and re-transmitted as mqtt message over Ethernet.
 | ------- | -------- | --------------------------------------------- | ---- | --------- |
 | 1       |          |                                               |      |           |
 | 2       | Garden   | temperature, solar powered                    |      | 5 Mins    |
-| 3       | Garden   | New solar panel testing                       |      | 5 mins    |
+| 3       | Garden   | [New solar panel testing](./espnow--sensor3)   |      | 15 mins   |
 | 4       | Garage   | temperature,atmospheric pressure, light level |      |           |
 
