@@ -14,7 +14,7 @@ Use an ESP32 to subscribe to MQTT messages and play sound files that have been s
 
 ##### Phase One
 
-1.  Read file from CD card
+1.  Read file from SD card
 2. Play file using I2S
 3. Include MQTT - Just play to start.
 4. 3d print suitable case
